@@ -20,7 +20,7 @@
 
 ![Untitled](screenshots/Untitled.png)
 
-![Untitled](screeshots/Untitled%201.png)
+![Untitled](screenshots/Untitled%201.png)
 
 내용 바꾸기
 
@@ -43,7 +43,7 @@
 4. 변경 사항을 push하여 원격 저장소에 업로드합니다.
     - 예시: `git push`
 
-![새로운 파일 추가](screeshots/Untitled%202.png)
+![새로운 파일 추가](screenshots/Untitled%202.png)
 
 새로운 파일 추가
 
@@ -77,11 +77,11 @@
 
 이제 git으로 Github에 프로젝트를 업로드하는 방법을 알게 되었습니다.
 
-![Untitled](screeshots/Untitled%203.png)
+![Untitled](screenshots/Untitled%203.png)
 
-![Untitled](screeshots/Untitled%204.png)
+![Untitled](screenshots/Untitled%204.png)
 
-![Untitled](screeshots/Untitled%205.png)
+![Untitled](screenshots/Untitled%205.png)
 
 커밋 이력을 보면서 프로그램적으로 복습할 수 있다.
 
