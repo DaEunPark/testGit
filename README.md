@@ -18,7 +18,7 @@
 
 이제 깃허브에서 프로젝트를 받아오는 방법을 알게 되었습니다.
 
-![Untitled](screenshots/Untitled.png)
+![Untitled](screeshots/Untitled.png)
 
 ![Untitled](screeshots/Untitled%201.png)
 
